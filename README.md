@@ -1,1 +1,1 @@
-Every leetocde program code in Python
+Every problem leetocde program code in Python
